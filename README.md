@@ -1,6 +1,6 @@
 # colorswitch-themes.vim
 
-A set of reliable Vim colorschemes designed for runtime switching between light and dark modes in MacVim.
+A set of reliable Vim colorschemes designed for runtime switching between light and dark modes in MacVim.   Intended in particular for use with the [colorswitch plugin](https://github.com/ronen/colorswitch)
 
 ## Included Themes
 
@@ -12,6 +12,7 @@ A set of reliable Vim colorschemes designed for runtime switching between light 
 Install with [vim-plug](https://github.com/junegunn/vim-plug):
 
 ```vim
+Plug 'ronen/colorswitch.vim'
 Plug 'ronen/colorswitch-themes.vim'
 ```
 
